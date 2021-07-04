@@ -1,0 +1,1 @@
+last_message = {'user': 541982545, 'time': 1614004363}
