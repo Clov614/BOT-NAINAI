@@ -1,0 +1,6 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+jwgl.qziedu.cn	FALSE	/	FALSE		SERVERID	121
+jwgl.qziedu.cn	FALSE	/jsxsd	FALSE		JSESSIONID	33EB98504B14A9A27A79BE4F4C6FE358
